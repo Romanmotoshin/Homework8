@@ -1,0 +1,15 @@
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.csproj.AssemblyReference.cache
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.AssemblyInfoInputs.cache
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.AssemblyInfo.cs
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.csproj.CoreCompileInputs.cache
+D:\Frontend\gb\C#\Homework8\Exersize58\bin\Debug\net6.0\Exersize58.exe
+D:\Frontend\gb\C#\Homework8\Exersize58\bin\Debug\net6.0\Exersize58.deps.json
+D:\Frontend\gb\C#\Homework8\Exersize58\bin\Debug\net6.0\Exersize58.runtimeconfig.json
+D:\Frontend\gb\C#\Homework8\Exersize58\bin\Debug\net6.0\Exersize58.dll
+D:\Frontend\gb\C#\Homework8\Exersize58\bin\Debug\net6.0\Exersize58.pdb
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.dll
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\refint\Exersize58.dll
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.pdb
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\Exersize58.genruntimeconfig.cache
+D:\Frontend\gb\C#\Homework8\Exersize58\obj\Debug\net6.0\ref\Exersize58.dll
